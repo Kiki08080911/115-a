@@ -72,4 +72,4 @@
 | col 2 is     | centered      |      $12 |
 | test        | 測試        |  $33333 |
 
-![NKUST](logo.png "NKUST") 
+![NKUST](images.png "NKUST") 
