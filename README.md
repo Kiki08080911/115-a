@@ -54,7 +54,7 @@
 ***
 
 
-[GOOGLE連結!!]<https://www.google.com/?hl=zh_TW>
+[GOOGLE連結!!](https://www.google.com/?hl=zh_TW)
 
 
 
