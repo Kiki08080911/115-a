@@ -54,7 +54,6 @@
 ***
 
 
-
 <https://www.google.com/?hl=zh_TW>
 
 
@@ -66,19 +65,11 @@
 ~~刪除線~~
 
 
-
 表格:
-
 | Left-Aligend | Center Aligned | Right Aligned |
-
 | :----------- | :------------: | ------: |
-
 | col 3 is     | some wordy text | $1600 |
-
 | col 2 is     | centered      |      $12 |
-
 | test        | 測試        |  $33333 |
-
-
 
 ![NKUST](logo.png "NKUST") 
