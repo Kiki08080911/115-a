@@ -21,7 +21,7 @@
 
 ### 我最喜歡的遊戲
 
-<img width="376" height="531" alt="images" src="https://github.com/user-attachments/assets/928e0b3a-2288-4993-a23a-52d0a9dbb461" />
+<img width="376" height="531" alt="images" src="https://github.com/Kiki08080911/115-a/blob/e0ddcbc14fb1ab0b5bdea7a48ff5cda2cfb4d622/images.jpg" />
 
 ## 我喜歡的名言
 
