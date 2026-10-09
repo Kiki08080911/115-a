@@ -23,9 +23,6 @@
 
 <img width="376" height="531" alt="images" src="https://github.com/Kiki08080911/115-a/blob/e0ddcbc14fb1ab0b5bdea7a48ff5cda2cfb4d622/images.jpg" />
 
-## 我喜歡的名言
-
-> 成長不是變成別人，而是越來越了解自己。
 
 ## 教育背景
 
@@ -34,19 +31,19 @@
 | 高職 | 國立臺南高級商業職業學校 | 資料處理科 |
 | 大學 | 國立高雄科技大學 | 資訊管理系 |
 
-## Python程式練習
+## ⚡ Python 程式實作練習
 
-### 成績判斷
+### 購物車折扣計算
 
-以下程式可以根據輸入的成績，判斷是否及格。
+輸入消費金額，滿千享 9 折優惠：
 
 ```python
-score = int(input("請輸入成績："))
+amount = float(input("請輸入金額："))
 
-if score >= 60:
-    print("恭喜你，及格了！")
+if amount >= 1000:
+    print("享有9折優惠！實付：", amount * 0.9)
 else:
-    print("未達及格標準，再接再厲！")
+    print("未達折扣標準，實付：", amount)
 ```
 
 ## 多行引言區塊
